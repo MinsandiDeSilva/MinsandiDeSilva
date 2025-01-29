@@ -17,8 +17,10 @@ Learning is at the heart of my journey, and I’m always open to exploring new t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/minsandi-de-silva-3424552a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-<a href="https://instagram.com/min_siiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="min_siiiii" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/minsandi-de-silva-3424552a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="39" width="40" /></a> &nbsp;
+<a href="https://instagram.com/min_siiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="min_siiiii" height="40" width="40" /></a> &nbsp;&nbsp;
+ <a href="mailto:minsandidesilva21@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="45" width="40" />
+</a>
 </p>
 <br>
 
