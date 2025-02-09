@@ -29,9 +29,11 @@ Learning is at the heart of my journey, and I’m always open to exploring new t
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MinsandiDeSilva&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="MinsandiDeSilva" /></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MinsandiDeSilva&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="MinsandiDeSilva" /></p>
+<br><br><br><br><br><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=MinsandiDeSilva&show_icons=true&theme=tokyonight&locale=en" alt="MinsandiDeSilva" /></p><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=MinsandiDeSilva&show_icons=true&theme=tokyonight&locale=en" alt="MinsandiDeSilva" /></p>
+<br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MinsandiDeSilva&theme=tokyonight" alt="MinsandiDeSilva" /></p><br><br>
 
