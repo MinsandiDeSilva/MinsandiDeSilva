@@ -35,6 +35,7 @@ Learning is at the heart of my journey, and I’m always open to exploring new t
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=MinsandiDeSilva&show_icons=true&theme=tokyonight&locale=en" alt="MinsandiDeSilva" /></p>
 <br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MinsandiDeSilva&theme=tokyonight" alt="MinsandiDeSilva" /></p><br><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MinsandiDeSilva&theme=tokyonight" alt="MinsandiDeSilva" /></p>
+<br><br><br><br><br><br>
 
 <hr width="60%" >
