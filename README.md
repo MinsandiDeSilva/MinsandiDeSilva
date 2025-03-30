@@ -56,4 +56,25 @@ Learning is at the heart of my journey, and I’m always open to exploring new t
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MinsandiDeSilva&theme=tokyonight" alt="MinsandiDeSilva" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
+
+<!-- GitHub Skyline and Alternative Visualizations -->
+<h3 align="center">📊 GitHub Contributions Visualization 📊</h3>
+
+<!-- GitHub Contribution Calendar -->
+<p align="center">
+  <a href="https://github.com/SoshanW">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinsandiDeSilva&theme=github_dark" alt="MinsandiDeSilva's GitHub Contribution" />
+  </a>
+</p>
+
+<!-- GitHub Stats Cards in a 2x2 Grid -->
+<div align="center">
+  <a href="https://github.com/MinsandiDeSilva">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinsandiDeSilva&theme=github_dark&title_font_size=14" width="45%" />
+  </a>
+  <a href="https://github.com/MinsandiDeSilva">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinsandiDeSilva&theme=github_dark&title_font_size=14" width="45%" />
+  </a>
+</div>
+
 <hr width="60%" >
