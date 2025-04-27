@@ -62,7 +62,7 @@ Learning is at the heart of my journey, and I’m always open to exploring new t
 
 <!-- GitHub Contribution Calendar -->
 <p align="center">
-  <a href="https://github.com/SoshanW">
+  <a href="https://github.com/MinsandiDeSilva">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinsandiDeSilva&theme=github_dark" alt="MinsandiDeSilva's GitHub Contribution" />
   </a>
 </p>
